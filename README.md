@@ -7,7 +7,6 @@
 - saving content on a page despite on user's reloading
 
 ## This project is using:
-- uuid: for creating unique element's id :
+- uuid: for creating unique element's id 🧰
 - redux: for storing text elements 🧰
 - redux-persist: for synchronizing redux and localStorage 🧰
-
